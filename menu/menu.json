@@ -2,22 +2,25 @@
     {
         "id" : 1,
         "title" : "Item 1",
-        "image" : "https://www.istockphoto.com/photo/man-burger-and-fast-food-kitchen-worker-at-counter-with-gloves-cooking-and-uniform-gm2032134544-562114948?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ffast-food&utm_medium=affiliate&utm_source=unsplash&utm_term=fast+food%3A%3A%3A",
+        "image" : "https://media.istockphoto.com/id/2032134542/photo/man-burger-and-fast-food-kitchen-for-cooking-at-counter-with-gloves-rep-and-uniform-at-small.jpg?s=1024x1024&w=is&k=20&c=GLJ1h5tk4yBGqQeggSic-k4S7f7C8kS9zZuUoWSjHdM=",
         "description" : "sdafasdfasd",
+        "foodType" : "Dinner",
         "price" : "10"
     },
     {
         "id" : 2,
         "title" : "Item 1",
-        "image" : "https://www.istockphoto.com/photo/man-burger-and-fast-food-kitchen-worker-at-counter-with-gloves-cooking-and-uniform-gm2032134544-562114948?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ffast-food&utm_medium=affiliate&utm_source=unsplash&utm_term=fast+food%3A%3A%3A",
+        "image" : "https://media.istockphoto.com/id/2032134542/photo/man-burger-and-fast-food-kitchen-for-cooking-at-counter-with-gloves-rep-and-uniform-at-small.jpg?s=1024x1024&w=is&k=20&c=GLJ1h5tk4yBGqQeggSic-k4S7f7C8kS9zZuUoWSjHdM=",
         "description" : "sdafasdfasd",
+        "foodType" : "Dinner",
         "price" : "10"
     },
     {
         "id" : 3,
         "title" : "Item 1",
-        "image" : "https://www.istockphoto.com/photo/man-burger-and-fast-food-kitchen-worker-at-counter-with-gloves-cooking-and-uniform-gm2032134544-562114948?utm_campaign=srp_photos_top&utm_content=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Ffast-food&utm_medium=affiliate&utm_source=unsplash&utm_term=fast+food%3A%3A%3A",
+        "image" : "https://media.istockphoto.com/id/2032134542/photo/man-burger-and-fast-food-kitchen-for-cooking-at-counter-with-gloves-rep-and-uniform-at-small.jpg?s=1024x1024&w=is&k=20&c=GLJ1h5tk4yBGqQeggSic-k4S7f7C8kS9zZuUoWSjHdM=",
         "description" : "sdafasdfasd",
+        "foodType" : "Dinner",
         "price" : "10"
     }
 ]
