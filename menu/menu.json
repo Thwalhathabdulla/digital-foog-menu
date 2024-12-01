@@ -5,7 +5,7 @@
         "image" : "https://media.istockphoto.com/id/2032134542/photo/man-burger-and-fast-food-kitchen-for-cooking-at-counter-with-gloves-rep-and-uniform-at-small.jpg?s=1024x1024&w=is&k=20&c=GLJ1h5tk4yBGqQeggSic-k4S7f7C8kS9zZuUoWSjHdM=",
         "description" : "sdafasdfasd",
         "foodType" : "Dinner",
-        "price" : "10"
+        "price" : "AED 10"
     },
     {
         "id" : 2,
@@ -13,7 +13,7 @@
         "image" : "https://media.istockphoto.com/id/2032134542/photo/man-burger-and-fast-food-kitchen-for-cooking-at-counter-with-gloves-rep-and-uniform-at-small.jpg?s=1024x1024&w=is&k=20&c=GLJ1h5tk4yBGqQeggSic-k4S7f7C8kS9zZuUoWSjHdM=",
         "description" : "sdafasdfasd",
         "foodType" : "Dinner",
-        "price" : "10"
+        "price" : "AED 10"
     },
     {
         "id" : 3,
@@ -21,6 +21,6 @@
         "image" : "https://media.istockphoto.com/id/2032134542/photo/man-burger-and-fast-food-kitchen-for-cooking-at-counter-with-gloves-rep-and-uniform-at-small.jpg?s=1024x1024&w=is&k=20&c=GLJ1h5tk4yBGqQeggSic-k4S7f7C8kS9zZuUoWSjHdM=",
         "description" : "sdafasdfasd",
         "foodType" : "Dinner",
-        "price" : "10"
+        "price" : "AED 10"
     }
 ]
