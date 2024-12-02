@@ -5,7 +5,8 @@
         "image" : "image1.jpg",
         "description" : "sdafasdfasd",
         "foodType" : "Dinner",
-        "price" : "AED 10"
+        "price" : 10,
+        "currency" : "AED"
     },
     {
         "id" : 2,
@@ -13,7 +14,8 @@
         "image" : "image1.jpg",
         "description" : "sdafasdfasd",
         "foodType" : "Dinner",
-        "price" : "AED 10"
+        "price" : 10,
+        "currency" : "AED"
     },
     {
         "id" : 3,
@@ -21,6 +23,7 @@
         "image" : "image1.jpg",
         "description" : "sdafasdfasd",
         "foodType" : "Dinner",
-        "price" : "AED 10"
+        "price" : 10,
+        "currency" : "AED"
     }
 ]
