@@ -6,7 +6,24 @@
         "description" : "sdafasdfasd",
         "foodType" : "Dinner",
         "price" : 10,
-        "currency" : "AED"
+        "currency" : "AED",
+        "options" : [
+            {
+                "title" : "small",
+                "price" : 10,
+                "currency" : "AED"
+            },
+            {
+                "title" : "Medum",
+                "price" : 15,
+                "currency" : "AED"
+            },
+            {
+                "title" : "large",
+                "price" : 20,
+                "currency" : "AED"
+            }
+        ]
     },
     {
         "id" : 2,
@@ -15,7 +32,19 @@
         "description" : "sdafasdfasd",
         "foodType" : "Dinner",
         "price" : 10,
-        "currency" : "AED"
+        "currency" : "AED",
+        "options" : [
+            {
+                "title" : "half",
+                "price" : 10,
+                "currency" : "AED"
+            },
+            {
+                "title" : "Full",
+                "price" : 15,
+                "currency" : "AED"
+            }
+        ]
     },
     {
         "id" : 3,
