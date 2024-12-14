@@ -1,10 +1,10 @@
 [
     {
         "id" : 1,
-        "title" : "Item 1",
-        "image" : "image1.jpg",
-        "description" : "sdafasdfasd",
-        "foodType" : "Dinner",
+        "title" : "Eggs Benedict",
+        "image" : "breakfast1.png",
+        "description" : "Gay one the what walk then she. Demesne mention pr",
+        "foodType" : "Breakfast",
         "price" : 10,
         "currency" : "AED",
         "options" : [
@@ -27,10 +27,10 @@
     },
     {
         "id" : 2,
-        "title" : "Item 1",
-        "image" : "image1.jpg",
-        "description" : "sdafasdfasd",
-        "foodType" : "Dinner",
+        "title" : "Breakfast Sandwich",
+        "image" : "breakfast2.png",
+        "description" : "Gay one the what walk then she. Demesne mention pr",
+        "foodType" : "Breakfast",
         "price" : 10,
         "currency" : "AED",
         "options" : [
@@ -48,10 +48,37 @@
     },
     {
         "id" : 3,
-        "title" : "Item 1",
-        "image" : "image1.jpg",
-        "description" : "sdafasdfasd",
-        "foodType" : "Dinner",
+        "title" : "Baked Chiken",
+        "image" : "breakfast3.png",
+        "description" : "Gay one the what walk then she. Demesne mention pr",
+        "foodType" : "Breakfast",
+        "price" : 10,
+        "currency" : "AED"
+    },
+    {
+        "id" : 4,
+        "title" : "Bagel and cream cheese",
+        "image" : "breakfast4.png",
+        "description" : "Gay one the what walk then she. Demesne mention pr",
+        "foodType" : "Breakfast",
+        "price" : 10,
+        "currency" : "AED"
+    },
+    {
+        "id" : 5,
+        "title" : "Fried Egg Toast Brunch",
+        "image" : "breakfast5.png",
+        "description" : "Gay one the what walk then she. Demesne mention pr",
+        "foodType" : "Breakfast",
+        "price" : 10,
+        "currency" : "AED"
+    },
+    {
+        "id" : 6,
+        "title" : "Toast Croissant Fried Egg",
+        "image" : "breakfast6.png",
+        "description" : "Gay one the what walk then she. Demesne mention pr",
+        "foodType" : "Breakfast",
         "price" : 10,
         "currency" : "AED"
     }
